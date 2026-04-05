@@ -45,8 +45,8 @@ export default function RecoveryApp() {
     <div style={{ minHeight: "100vh", background: "#07090f", fontFamily: "'Courier New', monospace", color: "#e2e8f0", padding: "1.5rem 1rem", boxSizing: "border-box" }}>
       {/* Header */}
       <div style={{ textAlign: "center", marginBottom: "1.5rem" }}>
-        <div style={{ color: ORANGE, fontSize: "0.62rem", letterSpacing: "0.3em", marginBottom: "0.25rem" }}>ESRA / IREC 2026 — MANUAL OPERATIONS</div>
-        <h1 style={{ fontSize: "1.3rem", fontWeight: 900, letterSpacing: "0.15em", margin: "0 0 0.2rem", color: "#f8fafc" }}>ROCKET RECOVERY OPERATIONS</h1>
+          <img src="https://raw.githubusercontent.com/pivotprontofac/IrecRecoveryStationDiagram/main/irec-logo.png" alt="IREC Logo" style={{ width: "220px", display: "block", margin: "0 auto 0.75rem" }} />
+          <div style={{ color: ORANGE, fontSize: "0.62rem", letterSpacing: "0.3em", marginBottom: "0.25rem" }}>ESRA / IREC 2026 — MANUAL OPERATIONS</div>       <h1 style={{ fontSize: "1.3rem", fontWeight: 900, letterSpacing: "0.15em", margin: "0 0 0.2rem", color: "#f8fafc" }}>ROCKET RECOVERY OPERATIONS</h1>
         <div style={{ color: "#475569", fontSize: "0.6rem", letterSpacing: "0.14em" }}>180 TEAMS · 6–10 ESRA VOLUNTEERS · RADIO-BASED COORDINATION</div>
       </div>
 
