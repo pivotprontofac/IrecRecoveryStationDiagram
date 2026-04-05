@@ -25,7 +25,7 @@ const steps = [
 ];
 
 const roles = [
-  { title: "Recovery Lead", icon: "⭐", color: ORANGE, headcount: "1", responsibilities: ["Owns the overall operation", "Coordinates with RSO Jim throughout the day", "Makes go/no-go calls on edge cases", "Manages volunteer assignments and coverage"], fills: "You (Adrianne)" },
+  { title: "Recovery Lead", icon: "⭐", color: ORANGE, headcount: "1", responsibilities: ["Owns the overall operation", "Coordinates with RSO Jim throughout the day", "Makes go/no-go calls on edge cases", "Manages volunteer assignments and coverage", "Reports to Launch Operations Mohi Khan"], fills: "You (Adrianne)" },
   { title: "Intake Coordinator", icon: "📋", color: BLUE, headcount: "1–2", responsibilities: ["Greets arriving teams", "Verifies eligibility & badge compliance", "Logs team arrivals and departures", "Marks teams complete and sends to Post Flight"], fills: "1–2 volunteers" },
   { title: "Dispatch Coordinator", icon: "➡", color: GREEN, headcount: "1", responsibilities: ["Determines north/south release", "Manages the Hold Zone queue", "Radios held teams with release authorization", "Logs all dispatch times"], fills: "1 volunteer" },
   { title: "Comms Coordinator", icon: "📻", color: GOLD, headcount: "1–2", responsibilities: ["Runs all 30-minute radio check-ins", "Tracks active teams in the field", "Escalates non-responsive teams to RSO", "Manages radio channel assignments"], fills: "1–2 volunteers" },
